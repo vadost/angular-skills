@@ -1,0 +1,31 @@
+{
+  "name": "angular-skills",
+  "version": "1.0.0",
+  "description": "Reusable Angular rules and Codex skills for Angular projects.",
+  "license": "MIT",
+  "bin": {
+    "angular-skills": "bin/angular-skills.js"
+  },
+  "files": [
+    ".angular-skills",
+    "bin",
+    "README.md"
+  ],
+  "keywords": [
+    "angular",
+    "codex",
+    "skills",
+    "rules"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vadost/angular-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vadost/angular-skills/issues"
+  },
+  "homepage": "https://github.com/vadost/angular-skills#readme",
+  "engines": {
+    "node": ">=16.7.0"
+  }
+}

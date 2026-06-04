@@ -62,3 +62,9 @@ test-results/
 
 # Misc
 .cache/
+
+# Local AI tooling
+.ai/
+
+# Package archives
+*.tgz
