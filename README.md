@@ -38,7 +38,9 @@ To replace an existing copy, run:
 npx github:vadost/angular-skills --force
 ```
 
-## Repository Layout
+## Output Structure
+
+After installation, the target project will receive this structure:
 
 ```text
 .angular-skills/
@@ -46,10 +48,9 @@ npx github:vadost/angular-skills --force
     guidelines.md
   skills/
     angular-developer/
+      SKILL.md
+      references/
     angular-new-app/
+      SKILL.md
     best-practices.md
-bin/
-  angular-skills.js
-package.json
-README.md
 ```
