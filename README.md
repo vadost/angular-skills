@@ -1,6 +1,6 @@
 # Angular Skills
 
-![Angular Skills banner](assets/angular-skills-banner.jpg)
+![Angular Skills banner](assets/angular-skills-mcp-banner.png)
 
 Reusable Angular coding rules and skills for Angular projects.
 
