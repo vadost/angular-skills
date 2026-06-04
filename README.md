@@ -1,6 +1,8 @@
 # Angular Skills
 
-Reusable Angular rules and Codex skills for Angular projects.
+![Angular Skills banner](assets/angular-skills-banner.jpg)
+
+Reusable Angular coding rules and skills for Angular projects.
 
 This repository provides a CLI that copies a ready-to-use `.angular-skills` directory into any project.
 
